@@ -1,4 +1,4 @@
-# Desafio: criando um pipeline para ETL.
+# Desafio: criando um pipeline para ETL
 
 ## Contexto
 
