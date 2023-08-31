@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Nesse projeto, serão utilizados dados do IBGE de população estimada em cada cidade. O objetivo é simular um processo de ETL da seguinte forma:
+Nesse projeto, foram utilizados dados do IBGE de população estimada em cada cidade. O objetivo é simular um processo de ETL da seguinte forma:
 
 **Extração**: leitura de uma planilha contendo as informações de cada município e sua população estimada;
 
